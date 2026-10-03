@@ -1,1 +1,1 @@
-# Forescasting-Tool
+# Forecasting-Tool
